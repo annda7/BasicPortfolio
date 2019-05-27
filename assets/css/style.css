@@ -310,10 +310,10 @@ a{
 .portLabel {
 	color: #fff;
 	background-color: #4aaaa5;
-	line-height: 40px;
+	line-height: 20px;
 	text-align: center;
 	position: relative;
-	bottom: 53px;
+	bottom: 20px;
 
 }
 
@@ -326,24 +326,13 @@ a{
 	bottom: 53px;
 }
 
-/* .footer1 { */
-    display: table;
-    height: 10%;
-    background: #666666;
-    width: 100%;
-    border-top-style: solid;
-    border-top-color: #4aaaa5;
-    border-width: 10px;
-    clear: both;
+.footer {
+   bottom: 0;
+   position: fixed;
+   height: 50px;
 }
 
-/* #copyright{ */
-    display:table;
-    height:10%;
-    background:#666666;
-    width:100%;
-    border-top-style:solid;
-    border-top-color:#4aaaa5;
-    border-width: 10px;
-    clear:both;
-    }
+#port {
+    margin-top: 100px;
+    padding-bottom: 80px;
+}
