@@ -10,3 +10,5 @@ Created a new Repository with a Name BasicPortfolio
 I will work with a TAs assistant or a Tutor to try and figure out what is wrong with my file. 
 
 Hopefully i can get it fixed before the Homework is due.
+
+5/27/19: Fixed the problem with the portfolio :)
