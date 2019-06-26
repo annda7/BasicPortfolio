@@ -12,3 +12,6 @@ I will work with a TAs assistant or a Tutor to try and figure out what is wrong 
 Hopefully i can get it fixed before the Homework is due.
 
 5/27/19: Fixed the problem with the portfolio :)
+
+
+https://annda7.github.io/BasicPortfolio/
