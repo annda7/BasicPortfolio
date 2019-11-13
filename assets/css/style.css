@@ -266,3 +266,14 @@ width:960px;
 padding:1%;
 background:white;
 }
+
+#personalContact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#personalContact p {
+  padding-bottom: 0;
+}
