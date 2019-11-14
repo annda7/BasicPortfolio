@@ -35,7 +35,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: #944aaa;
   }
   
   h1 {
@@ -74,7 +74,7 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #1e1b1f;
   }
   
   nav {
@@ -106,7 +106,7 @@ body {
     color: #cccccc;
     text-align: center;
     background: #666666;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #211e22;
     height: 50px;
   }
   
@@ -182,7 +182,7 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    background: #1c191d;
     border-bottom: 0;
   }
   
@@ -224,7 +224,7 @@ body {
   textarea {
     height: 200px;
   }
-  
+/*   
   input[type=submit] {
     padding: 10px 30px;
     font-size: 18px;
@@ -233,11 +233,11 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
-  
+   */
 
 .smallimage{
-    height:30px;
-    width: 30px;
+    height:70px;
+    width: 70px;
     float:left;
 }
 
@@ -267,13 +267,13 @@ padding:1%;
 background:white;
 }
 
-#personalContact {
+/* #personalContact {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-}
+} */
 
-#personalContact p {
+/* #personalContact p {
   padding-bottom: 0;
-}
+} */
